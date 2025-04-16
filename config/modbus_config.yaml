@@ -1,0 +1,9 @@
+binary_p: /path/to/binary
+library_dir: /path/to/library/dir/
+hook_option:
+  hook_s: modbus_receive
+  end_s:
+    - send_msg
+    - response_exception
+  hook_addr: null
+  end_addr: null

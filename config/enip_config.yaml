@@ -1,0 +1,10 @@
+binary_p: /path/to/binary
+library_dir: null
+hook_option:
+  hook_s: _ZN13Encapsulation13ReceiveTcpMsgEi9BufWriter
+  end_s: null
+  hook_addr: null
+  end_addr:
+    - 0x42373d
+    - 0x4047b0
+    - 0x4279b4

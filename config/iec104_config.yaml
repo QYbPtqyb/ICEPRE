@@ -1,0 +1,9 @@
+binary_p: /path/to/binary
+library_dir: null
+hook_option:
+  hook_s: read
+  end_s: null
+  hook_addr: null
+  end_addr:
+    - 0x4057ff
+    - 0x4057fe
